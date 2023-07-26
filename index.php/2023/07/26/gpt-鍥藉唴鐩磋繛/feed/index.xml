@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for Tech Hub	</title>
-	<atom:link href="/index.php/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	Comments on: GPT 国内直连	</title>
+	<atom:link href="/index.php/2023/07/26/gpt-%E5%9B%BD%E5%86%85%E7%9B%B4%E8%BF%9E/feed/" rel="self" type="application/rss+xml" />
+	<link>/index.php/2023/07/26/gpt-%e5%9b%bd%e5%86%85%e7%9b%b4%e8%bf%9e/</link>
 	<description>APP/软件开发、SEO搜索、广告营销</description>
-	<lastBuildDate>Wed, 26 Jul 2023 09:53:44 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Jul 2023 07:51:20 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

@@ -11,8 +11,8 @@
 	<title>Web网站 &#8211; Tech Hub</title>
 	<atom:link href="/index.php/category/web/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description>APP、Web、小程序、CRM等定制开发</description>
-	<lastBuildDate>Wed, 26 Jul 2023 03:45:43 +0000</lastBuildDate>
+	<description>APP/软件开发、SEO搜索、广告营销</description>
+	<lastBuildDate>Wed, 26 Jul 2023 07:51:20 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,34 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>GPT 国内直连</title>
+		<link>/index.php/2023/07/26/gpt-%e5%9b%bd%e5%86%85%e7%9b%b4%e8%bf%9e/</link>
+					<comments>/index.php/2023/07/26/gpt-%e5%9b%bd%e5%86%85%e7%9b%b4%e8%bf%9e/#respond</comments>
+		
+		<dc:creator><![CDATA[bleve]]></dc:creator>
+		<pubDate>Wed, 26 Jul 2023 07:47:31 +0000</pubDate>
+				<category><![CDATA[Web网站]]></category>
+		<guid isPermaLink="false">/?p=364</guid>
+
+					<description><![CDATA[项目介绍：GPT 国内直连项目，允许国内用户通过购买账户就可以直接与GPT沟通，无需代理连接。 访问项目：https://www.aiopenaichat.top/]]></description>
+										<content:encoded><![CDATA[
+<p><strong>项目介绍：</strong>GPT 国内直连项目，允许国内用户通过购买账户就可以直接与GPT沟通，无需代理连接。</p>
+
+
+
+<p><strong>访问项目：</strong><a href="https://www.aiopenaichat.top/">https://www.aiopenaichat.top/</a></p>
+
+
+
+<span id="more-364"></span>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2023/07/26/gpt-%e5%9b%bd%e5%86%85%e7%9b%b4%e8%bf%9e/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>北美集运</title>
 		<link>/index.php/2020/01/12/beimeijiyun/</link>
 		

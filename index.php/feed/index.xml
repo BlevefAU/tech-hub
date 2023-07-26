@@ -11,8 +11,8 @@
 	<title>Tech Hub</title>
 	<atom:link href="/index.php/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description>APP、Web、小程序、CRM等定制开发</description>
-	<lastBuildDate>Wed, 26 Jul 2023 05:35:39 +0000</lastBuildDate>
+	<description>APP/软件开发、SEO搜索、广告营销</description>
+	<lastBuildDate>Wed, 26 Jul 2023 09:53:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,94 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>排班系统</title>
+		<link>/index.php/2023/07/26/sys-staffm/</link>
+		
+		<dc:creator><![CDATA[bleve]]></dc:creator>
+		<pubDate>Wed, 26 Jul 2023 09:53:03 +0000</pubDate>
+				<category><![CDATA[独立项目]]></category>
+		<guid isPermaLink="false">/?p=373</guid>
+
+					<description><![CDATA[项目介绍：员工排班系统是一种用于管理和安排员工工作时间表的软件或工具。它被广泛应用于各种组织和行业，包括零售、餐饮、医疗、制造等。该系统旨在简化和优化排班过程，提高工作效率和员工满意度。]]></description>
+										<content:encoded><![CDATA[
+<p><strong>项目介绍：</strong>员工排班系统是一种用于管理和安排员工工作时间表的软件或工具。它被广泛应用于各种组织和行业，包括零售、餐饮、医疗、制造等。该系统旨在简化和优化排班过程，提高工作效率和员工满意度。</p>
+
+
+
+<span id="more-373"></span>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>GPT 国内直连</title>
+		<link>/index.php/2023/07/26/gpt-%e5%9b%bd%e5%86%85%e7%9b%b4%e8%bf%9e/</link>
+					<comments>/index.php/2023/07/26/gpt-%e5%9b%bd%e5%86%85%e7%9b%b4%e8%bf%9e/#respond</comments>
+		
+		<dc:creator><![CDATA[bleve]]></dc:creator>
+		<pubDate>Wed, 26 Jul 2023 07:47:31 +0000</pubDate>
+				<category><![CDATA[Web网站]]></category>
+		<guid isPermaLink="false">/?p=364</guid>
+
+					<description><![CDATA[项目介绍：GPT 国内直连项目，允许国内用户通过购买账户就可以直接与GPT沟通，无需代理连接。 访问项目：https://www.aiopenaichat.top/]]></description>
+										<content:encoded><![CDATA[
+<p><strong>项目介绍：</strong>GPT 国内直连项目，允许国内用户通过购买账户就可以直接与GPT沟通，无需代理连接。</p>
+
+
+
+<p><strong>访问项目：</strong><a href="https://www.aiopenaichat.top/">https://www.aiopenaichat.top/</a></p>
+
+
+
+<span id="more-364"></span>
+]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/2023/07/26/gpt-%e5%9b%bd%e5%86%85%e7%9b%b4%e8%bf%9e/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hula APP 呼啦圈</title>
+		<link>/index.php/2023/07/26/hula-app/</link>
+		
+		<dc:creator><![CDATA[bleve]]></dc:creator>
+		<pubDate>Wed, 26 Jul 2023 07:26:59 +0000</pubDate>
+				<category><![CDATA[APP]]></category>
+		<guid isPermaLink="false">/?p=357</guid>
+
+					<description><![CDATA[项目介绍：Pacific Asian 爱客多，致力于将亚洲好货带到澳洲。通过线下实体店和线上购物APP结合的形式打造社区化的一站式新零售体验中心，用科技和服务让大家的生活更加便利。 访问项目：]]></description>
+										<content:encoded><![CDATA[
+<p><strong>项目介绍：</strong>Pacific Asian 爱客多，致力于将亚洲好货带到澳洲。通过线下实体店和线上购物APP结合的形式打造社区化的一站式新零售体验中心，用科技和服务让大家的生活更加便利。</p>
+
+
+
+<p><strong>访问项目：</strong></p>
+
+
+
+<ul>
+<li>IOS商店：<a href="https://apps.apple.com/cn/app/hula%E5%91%BC%E5%95%A6%E5%9C%88/id1517327417">https://apps.apple.com/cn/app/hula%E5%91%BC%E5%95%A6%E5%9C%88/id1517327417</a></li>
+
+
+
+<li>官网：<a href="http://www.hulacircle.com/">http://www.hulacircle.com/</a></li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<span id="more-357"></span>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Freshgo 农夫生鲜</title>
 		<link>/index.php/2020/01/12/freshgo/</link>
 		
@@ -165,8 +253,32 @@
 				<category><![CDATA[APP]]></category>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=20</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[项目介绍：Pacific Asian 爱客多，致力于将亚洲好货带到澳洲。通过线下实体店和线上购物APP结合的形式打造社区化的一站式新零售体验中心，用科技和服务让大家的生活更加便利。 访问项目：]]></description>
+										<content:encoded><![CDATA[
+<p><strong>项目介绍：</strong>Pacific Asian 爱客多，致力于将亚洲好货带到澳洲。通过线下实体店和线上购物APP结合的形式打造社区化的一站式新零售体验中心，用科技和服务让大家的生活更加便利。</p>
+
+
+
+<p><strong>访问项目：</strong></p>
+
+
+
+<ul>
+<li>IOS商店：<a href="https://apps.apple.com/au/app/%E7%88%B1%E5%AE%A2%E5%A4%9A-%E4%B8%80%E7%AB%99%E5%BC%8F%E7%BA%BF%E4%B8%8A%E8%B6%85%E5%B8%82/id1642266554">https://apps.apple.com/au/app/%E7%88%B1%E5%AE%A2%E5%A4%9A-%E4%B8%80%E7%AB%99%E5%BC%8F%E7%BA%BF%E4%B8%8A%E8%B6%85%E5%B8%82/id1642266554</a></li>
+
+
+
+<li>安卓google商店：<a href="https://play.google.com/store/apps/details?id=com.grouppacificasian.aikeduo.shop&amp;pli=1">https://play.google.com/store/apps/details?id=com.grouppacificasian.aikeduo.shop&amp;pli=1</a></li>
+
+
+
+<li>官网主页：<a href="https://pacificasiangroup.com/%e4%b8%8b%e8%bd%bdapp/">https://pacificasiangroup.com/%e4%b8%8b%e8%bd%bdapp/</a></li>
+</ul>
+
+
+
+<span id="more-105"></span>
+]]></content:encoded>
 					
 		
 		

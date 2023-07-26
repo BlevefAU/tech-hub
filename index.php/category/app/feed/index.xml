@@ -11,8 +11,8 @@
 	<title>APP &#8211; Tech Hub</title>
 	<atom:link href="/index.php/category/app/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description>APP、Web、小程序、CRM等定制开发</description>
-	<lastBuildDate>Wed, 26 Jul 2023 05:35:39 +0000</lastBuildDate>
+	<description>APP/软件开发、SEO搜索、广告营销</description>
+	<lastBuildDate>Wed, 26 Jul 2023 07:36:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,45 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Hula APP 呼啦圈</title>
+		<link>/index.php/2023/07/26/hula-app/</link>
+		
+		<dc:creator><![CDATA[bleve]]></dc:creator>
+		<pubDate>Wed, 26 Jul 2023 07:26:59 +0000</pubDate>
+				<category><![CDATA[APP]]></category>
+		<guid isPermaLink="false">/?p=357</guid>
+
+					<description><![CDATA[项目介绍：Pacific Asian 爱客多，致力于将亚洲好货带到澳洲。通过线下实体店和线上购物APP结合的形式打造社区化的一站式新零售体验中心，用科技和服务让大家的生活更加便利。 访问项目：]]></description>
+										<content:encoded><![CDATA[
+<p><strong>项目介绍：</strong>Pacific Asian 爱客多，致力于将亚洲好货带到澳洲。通过线下实体店和线上购物APP结合的形式打造社区化的一站式新零售体验中心，用科技和服务让大家的生活更加便利。</p>
+
+
+
+<p><strong>访问项目：</strong></p>
+
+
+
+<ul>
+<li>IOS商店：<a href="https://apps.apple.com/cn/app/hula%E5%91%BC%E5%95%A6%E5%9C%88/id1517327417">https://apps.apple.com/cn/app/hula%E5%91%BC%E5%95%A6%E5%9C%88/id1517327417</a></li>
+
+
+
+<li>官网：<a href="http://www.hulacircle.com/">http://www.hulacircle.com/</a></li>
+</ul>
+
+
+
+<p></p>
+
+
+
+<span id="more-357"></span>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Pacific Asian 爱客多</title>
 		<link>/index.php/2020/01/12/pacific_asian/</link>
 		
@@ -36,8 +75,32 @@
 				<category><![CDATA[APP]]></category>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=20</guid>
 
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[]]></content:encoded>
+					<description><![CDATA[项目介绍：Pacific Asian 爱客多，致力于将亚洲好货带到澳洲。通过线下实体店和线上购物APP结合的形式打造社区化的一站式新零售体验中心，用科技和服务让大家的生活更加便利。 访问项目：]]></description>
+										<content:encoded><![CDATA[
+<p><strong>项目介绍：</strong>Pacific Asian 爱客多，致力于将亚洲好货带到澳洲。通过线下实体店和线上购物APP结合的形式打造社区化的一站式新零售体验中心，用科技和服务让大家的生活更加便利。</p>
+
+
+
+<p><strong>访问项目：</strong></p>
+
+
+
+<ul>
+<li>IOS商店：<a href="https://apps.apple.com/au/app/%E7%88%B1%E5%AE%A2%E5%A4%9A-%E4%B8%80%E7%AB%99%E5%BC%8F%E7%BA%BF%E4%B8%8A%E8%B6%85%E5%B8%82/id1642266554">https://apps.apple.com/au/app/%E7%88%B1%E5%AE%A2%E5%A4%9A-%E4%B8%80%E7%AB%99%E5%BC%8F%E7%BA%BF%E4%B8%8A%E8%B6%85%E5%B8%82/id1642266554</a></li>
+
+
+
+<li>安卓google商店：<a href="https://play.google.com/store/apps/details?id=com.grouppacificasian.aikeduo.shop&amp;pli=1">https://play.google.com/store/apps/details?id=com.grouppacificasian.aikeduo.shop&amp;pli=1</a></li>
+
+
+
+<li>官网主页：<a href="https://pacificasiangroup.com/%e4%b8%8b%e8%bd%bdapp/">https://pacificasiangroup.com/%e4%b8%8b%e8%bd%bdapp/</a></li>
+</ul>
+
+
+
+<span id="more-105"></span>
+]]></content:encoded>
 					
 		
 		
