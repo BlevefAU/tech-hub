@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tech Hub</title>
+	<atom:link href="/index.php/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>APP、Web、小程序、CRM等定制开发</description>
+	<lastBuildDate>Wed, 26 Jul 2023 05:35:39 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/07/logo11-150x150.png</url>
+	<title>Tech Hub</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Freshgo 农夫生鲜</title>
+		<link>/index.php/2020/01/12/freshgo/</link>
+		
+		<dc:creator><![CDATA[bleve]]></dc:creator>
+		<pubDate>Sun, 12 Jan 2020 16:39:33 +0000</pubDate>
+				<category><![CDATA[小程序]]></category>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=44</guid>
+
+					<description><![CDATA[项目介绍：Freshgo 农夫生鲜，是一家为墨尔本华人提供生鲜蔬菜的网上点单及配送服务的公司。本项目包含小程序客户端和后台订单、商品管理系统。 访问项目：微信内搜索小程序 “freshgo农夫生鲜” 或扫描下方小程序二维码]]></description>
+										<content:encoded><![CDATA[
+<p><strong>项目介绍：</strong>Freshgo 农夫生鲜，是一家为墨尔本华人提供生鲜蔬菜的网上点单及配送服务的公司。本项目包含小程序客户端和后台订单、商品管理系统。</p>
+
+
+
+<p><strong>访问项目：</strong>微信内搜索小程序 “freshgo农夫生鲜” 或扫描下方小程序二维码</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full is-resized"><img decoding="async" src="/wp-content/uploads/2023/07/2-2.jpg" alt="" class="wp-image-296" width="258" height="258" srcset="/wp-content/uploads/2023/07/2-2.jpg 258w, /wp-content/uploads/2023/07/2-2-150x150.jpg 150w" sizes="(max-width: 258px) 100vw, 258px" /></figure></div>
+
+
+<span id="more-44"></span>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hula 呼啦圈</title>
+		<link>/index.php/2020/01/12/hula/</link>
+		
+		<dc:creator><![CDATA[bleve]]></dc:creator>
+		<pubDate>Sun, 12 Jan 2020 16:35:38 +0000</pubDate>
+				<category><![CDATA[小程序]]></category>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=40</guid>
+
+					<description><![CDATA[项目介绍：Hula 呼啦圈，是一家专注于提供留学生生活服务的平台，致力于为留学生提供闲置、租房、招聘的支持和便利，让他们在异国他乡的生活更加轻松和愉快。 访问项目：微信内搜索小程序 “Hula 呼啦圈” 或扫描下方小程序二维码]]></description>
+										<content:encoded><![CDATA[
+<p><strong>项目介绍：</strong>Hula 呼啦圈，是一家专注于提供留学生生活服务的平台，致力于为留学生提供闲置、租房、招聘的支持和便利，让他们在异国他乡的生活更加轻松和愉快。</p>
+
+
+
+<p><strong>访问项目：</strong>微信内搜索小程序 “Hula 呼啦圈” 或扫描下方小程序二维码</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img decoding="async" loading="lazy" width="430" height="430" src="/wp-content/uploads/2023/07/4.png" alt="" class="wp-image-314" srcset="/wp-content/uploads/2023/07/4.png 430w, /wp-content/uploads/2023/07/4-300x300.png 300w, /wp-content/uploads/2023/07/4-150x150.png 150w" sizes="(max-width: 430px) 100vw, 430px" /></figure></div>
+
+
+<span id="more-40"></span>
+
+
+
+<p></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Top 家具家电</title>
+		<link>/index.php/2020/01/12/top-shop/</link>
+		
+		<dc:creator><![CDATA[bleve]]></dc:creator>
+		<pubDate>Sun, 12 Jan 2020 16:34:38 +0000</pubDate>
+				<category><![CDATA[小程序]]></category>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=38</guid>
+
+					<description><![CDATA[项目介绍：Top家具家电，是一家专门为留学生在澳洲提供家具和家电销售及配送安装服务的公司，无论是全新的还是二手的家具都可以在平台上买到，以满足在澳留学生的居住需求。 访问项目：微信内搜索小程序 “Top 家具家电” 或扫描下方小程序二维码]]></description>
+										<content:encoded><![CDATA[
+<p><strong>项目介绍：</strong>Top家具家电，是一家专门为留学生在澳洲提供家具和家电销售及配送安装服务的公司，无论是全新的还是二手的家具都可以在平台上买到，以满足在澳留学生的居住需求。</p>
+
+
+
+<p><strong>访问项目：</strong>微信内搜索小程序 “Top 家具家电” 或扫描下方小程序二维码</p>
+
+
+<div class="wp-block-image">
+<figure class="aligncenter size-full"><img decoding="async" loading="lazy" width="258" height="258" src="/wp-content/uploads/2023/07/5.jpg" alt="" class="wp-image-318" srcset="/wp-content/uploads/2023/07/5.jpg 258w, /wp-content/uploads/2023/07/5-150x150.jpg 150w" sizes="(max-width: 258px) 100vw, 258px" /></figure></div>
+
+
+<span id="more-38"></span>
+
+
+
+<p></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>北美集运</title>
+		<link>/index.php/2020/01/12/beimeijiyun/</link>
+		
+		<dc:creator><![CDATA[bleve]]></dc:creator>
+		<pubDate>Sun, 12 Jan 2020 16:31:42 +0000</pubDate>
+				<category><![CDATA[Web网站]]></category>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=34</guid>
+
+					<description><![CDATA[项目介绍：北美集运，是一家专业的为在美华人提供物流服务提供商。本项目为单页展示网站，是一种简洁而高效的企业信息介绍方式。 访问项目： http://zelensky184.shop/]]></description>
+										<content:encoded><![CDATA[
+<p><strong>项目介绍：</strong>北美集运，是一家专业的为在美华人提供物流服务提供商。本项目为单页展示网站，是一种简洁而高效的企业信息介绍方式。</p>
+
+
+
+<p class="has-text-align-left"><strong>访问项目： </strong><a href="http://zelensky184.shop/">http://zelensky184.shop/</a> </p>
+
+
+
+<span id="more-34"></span>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pacific Asian 爱客多</title>
+		<link>/index.php/2020/01/12/pacific_asian/</link>
+		
+		<dc:creator><![CDATA[bleve]]></dc:creator>
+		<pubDate>Sun, 12 Jan 2020 16:22:56 +0000</pubDate>
+				<category><![CDATA[APP]]></category>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=20</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Areal 澳睿地产</title>
+		<link>/index.php/2020/01/12/areal/</link>
+		
+		<dc:creator><![CDATA[bleve]]></dc:creator>
+		<pubDate>Sun, 12 Jan 2020 16:00:07 +0000</pubDate>
+				<category><![CDATA[小程序]]></category>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=42</guid>
+
+					<description><![CDATA[项目介绍：澳睿集团 (Areal Property) 致力于提供流和物业管理服务，协助在澳大利亚拥有投资物业的客户获得优秀的经济回报。 访问项目：微信内搜索小程序 “澳洲澳睿集团” （本项目为地产公司的小程序客户端，需账号密码登入方可查看大部分功能）]]></description>
+										<content:encoded><![CDATA[
+<p><strong>项目介绍：</strong>澳睿集团 (Areal Property) 致力于提供流和物业管理服务，协助在澳大利亚拥有投资物业的客户获得优秀的经济回报。</p>
+
+
+
+<p><strong>访问项目：</strong>微信内搜索小程序 “澳洲澳睿集团” （本项目为地产公司的小程序客户端，需账号密码登入方可查看大部分功能）</p>
+
+
+
+<span id="more-42"></span>
+
+
+
+<p></p>
+
+
+
+<p></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
