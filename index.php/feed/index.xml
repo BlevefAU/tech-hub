@@ -12,7 +12,7 @@
 	<atom:link href="/index.php/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>APP/软件开发、SEO搜索、广告营销</description>
-	<lastBuildDate>Wed, 26 Jul 2023 09:53:44 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Jul 2023 02:44:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,21 +28,25 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>排班系统</title>
-		<link>/index.php/2023/07/26/sys-staffm/</link>
+		<title>员工管理排课系统</title>
+		<link>/index.php/2023/07/27/arrange/</link>
 		
 		<dc:creator><![CDATA[bleve]]></dc:creator>
-		<pubDate>Wed, 26 Jul 2023 09:53:03 +0000</pubDate>
+		<pubDate>Thu, 27 Jul 2023 02:42:05 +0000</pubDate>
 				<category><![CDATA[独立项目]]></category>
-		<guid isPermaLink="false">/?p=373</guid>
+		<guid isPermaLink="false">/?p=380</guid>
 
-					<description><![CDATA[项目介绍：员工排班系统是一种用于管理和安排员工工作时间表的软件或工具。它被广泛应用于各种组织和行业，包括零售、餐饮、医疗、制造等。该系统旨在简化和优化排班过程，提高工作效率和员工满意度。]]></description>
+					<description><![CDATA[项目介绍：员工管理排课系统是一款专为公司内部管理设计的在线排课工具。该系统的核心目标是为员工提供一个简单、高效和灵活的课程安排平台，系统还能够自动警告课程冲突，避免员工因为时间安排问题而错过重要的课程。]]></description>
 										<content:encoded><![CDATA[
-<p><strong>项目介绍：</strong>员工排班系统是一种用于管理和安排员工工作时间表的软件或工具。它被广泛应用于各种组织和行业，包括零售、餐饮、医疗、制造等。该系统旨在简化和优化排班过程，提高工作效率和员工满意度。</p>
+<p><strong>项目介绍：</strong>员工管理排课系统是一款专为公司内部管理设计的在线排课工具。该系统的核心目标是为员工提供一个简单、高效和灵活的课程安排平台，系统还能够自动警告课程冲突，避免员工因为时间安排问题而错过重要的课程。</p>
 
 
 
-<span id="more-373"></span>
+<p></p>
+
+
+
+<span id="more-380"></span>
 ]]></content:encoded>
 					
 		
@@ -117,10 +121,10 @@
 			</item>
 		<item>
 		<title>Freshgo 农夫生鲜</title>
-		<link>/index.php/2020/01/12/freshgo/</link>
+		<link>/index.php/2023/07/12/freshgo/</link>
 		
 		<dc:creator><![CDATA[bleve]]></dc:creator>
-		<pubDate>Sun, 12 Jan 2020 16:39:33 +0000</pubDate>
+		<pubDate>Wed, 12 Jul 2023 16:39:33 +0000</pubDate>
 				<category><![CDATA[小程序]]></category>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=44</guid>
 
@@ -138,6 +142,45 @@
 
 
 <span id="more-44"></span>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Pacific Asian 爱客多</title>
+		<link>/index.php/2023/01/12/pacific_asian/</link>
+		
+		<dc:creator><![CDATA[bleve]]></dc:creator>
+		<pubDate>Thu, 12 Jan 2023 16:22:56 +0000</pubDate>
+				<category><![CDATA[APP]]></category>
+		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=20</guid>
+
+					<description><![CDATA[项目介绍：Pacific Asian 爱客多，致力于将亚洲好货带到澳洲。通过线下实体店和线上购物APP结合的形式打造社区化的一站式新零售体验中心，用科技和服务让大家的生活更加便利。 访问项目：]]></description>
+										<content:encoded><![CDATA[
+<p><strong>项目介绍：</strong>Pacific Asian 爱客多，致力于将亚洲好货带到澳洲。通过线下实体店和线上购物APP结合的形式打造社区化的一站式新零售体验中心，用科技和服务让大家的生活更加便利。</p>
+
+
+
+<p><strong>访问项目：</strong></p>
+
+
+
+<ul>
+<li>IOS商店：<a href="https://apps.apple.com/au/app/%E7%88%B1%E5%AE%A2%E5%A4%9A-%E4%B8%80%E7%AB%99%E5%BC%8F%E7%BA%BF%E4%B8%8A%E8%B6%85%E5%B8%82/id1642266554">https://apps.apple.com/au/app/%E7%88%B1%E5%AE%A2%E5%A4%9A-%E4%B8%80%E7%AB%99%E5%BC%8F%E7%BA%BF%E4%B8%8A%E8%B6%85%E5%B8%82/id1642266554</a></li>
+
+
+
+<li>安卓google商店：<a href="https://play.google.com/store/apps/details?id=com.grouppacificasian.aikeduo.shop&amp;pli=1">https://play.google.com/store/apps/details?id=com.grouppacificasian.aikeduo.shop&amp;pli=1</a></li>
+
+
+
+<li>官网主页：<a href="https://pacificasiangroup.com/%e4%b8%8b%e8%bd%bdapp/">https://pacificasiangroup.com/%e4%b8%8b%e8%bd%bdapp/</a></li>
+</ul>
+
+
+
+<span id="more-105"></span>
 ]]></content:encoded>
 					
 		
@@ -245,45 +288,6 @@
 		
 			</item>
 		<item>
-		<title>Pacific Asian 爱客多</title>
-		<link>/index.php/2020/01/12/pacific_asian/</link>
-		
-		<dc:creator><![CDATA[bleve]]></dc:creator>
-		<pubDate>Sun, 12 Jan 2020 16:22:56 +0000</pubDate>
-				<category><![CDATA[APP]]></category>
-		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=20</guid>
-
-					<description><![CDATA[项目介绍：Pacific Asian 爱客多，致力于将亚洲好货带到澳洲。通过线下实体店和线上购物APP结合的形式打造社区化的一站式新零售体验中心，用科技和服务让大家的生活更加便利。 访问项目：]]></description>
-										<content:encoded><![CDATA[
-<p><strong>项目介绍：</strong>Pacific Asian 爱客多，致力于将亚洲好货带到澳洲。通过线下实体店和线上购物APP结合的形式打造社区化的一站式新零售体验中心，用科技和服务让大家的生活更加便利。</p>
-
-
-
-<p><strong>访问项目：</strong></p>
-
-
-
-<ul>
-<li>IOS商店：<a href="https://apps.apple.com/au/app/%E7%88%B1%E5%AE%A2%E5%A4%9A-%E4%B8%80%E7%AB%99%E5%BC%8F%E7%BA%BF%E4%B8%8A%E8%B6%85%E5%B8%82/id1642266554">https://apps.apple.com/au/app/%E7%88%B1%E5%AE%A2%E5%A4%9A-%E4%B8%80%E7%AB%99%E5%BC%8F%E7%BA%BF%E4%B8%8A%E8%B6%85%E5%B8%82/id1642266554</a></li>
-
-
-
-<li>安卓google商店：<a href="https://play.google.com/store/apps/details?id=com.grouppacificasian.aikeduo.shop&amp;pli=1">https://play.google.com/store/apps/details?id=com.grouppacificasian.aikeduo.shop&amp;pli=1</a></li>
-
-
-
-<li>官网主页：<a href="https://pacificasiangroup.com/%e4%b8%8b%e8%bd%bdapp/">https://pacificasiangroup.com/%e4%b8%8b%e8%bd%bdapp/</a></li>
-</ul>
-
-
-
-<span id="more-105"></span>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
 		<title>Areal 澳睿地产</title>
 		<link>/index.php/2020/01/12/areal/</link>
 		
@@ -315,6 +319,27 @@
 
 
 <p></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>排班系统</title>
+		<link>/index.php/2020/01/01/sys-staffm/</link>
+		
+		<dc:creator><![CDATA[bleve]]></dc:creator>
+		<pubDate>Wed, 01 Jan 2020 00:53:03 +0000</pubDate>
+				<category><![CDATA[独立项目]]></category>
+		<guid isPermaLink="false">/?p=373</guid>
+
+					<description><![CDATA[项目介绍：员工排班系统是一种用于管理和安排员工工作时间表的软件或工具。它被广泛应用于各种组织和行业，包括零售、餐饮、医疗、制造等。该系统旨在简化和优化排班过程，提高工作效率和员工满意度。]]></description>
+										<content:encoded><![CDATA[
+<p><strong>项目介绍：</strong>员工排班系统是一种用于管理和安排员工工作时间表的软件或工具。它被广泛应用于各种组织和行业，包括零售、餐饮、医疗、制造等。该系统旨在简化和优化排班过程，提高工作效率和员工满意度。</p>
+
+
+
+<span id="more-373"></span>
 ]]></content:encoded>
 					
 		

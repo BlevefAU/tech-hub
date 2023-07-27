@@ -12,7 +12,7 @@
 	<atom:link href="/index.php/category/wechat/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>APP/软件开发、SEO搜索、广告营销</description>
-	<lastBuildDate>Wed, 26 Jul 2023 04:00:27 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Jul 2023 10:06:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -29,10 +29,10 @@
 </image> 
 	<item>
 		<title>Freshgo 农夫生鲜</title>
-		<link>/index.php/2020/01/12/freshgo/</link>
+		<link>/index.php/2023/07/12/freshgo/</link>
 		
 		<dc:creator><![CDATA[bleve]]></dc:creator>
-		<pubDate>Sun, 12 Jan 2020 16:39:33 +0000</pubDate>
+		<pubDate>Wed, 12 Jul 2023 16:39:33 +0000</pubDate>
 				<category><![CDATA[小程序]]></category>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=44</guid>
 

@@ -12,7 +12,7 @@
 	<atom:link href="/index.php/category/other/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>APP/软件开发、SEO搜索、广告营销</description>
-	<lastBuildDate>Wed, 26 Jul 2023 09:53:44 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 27 Jul 2023 02:44:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,11 +28,36 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>排班系统</title>
-		<link>/index.php/2023/07/26/sys-staffm/</link>
+		<title>员工管理排课系统</title>
+		<link>/index.php/2023/07/27/arrange/</link>
 		
 		<dc:creator><![CDATA[bleve]]></dc:creator>
-		<pubDate>Wed, 26 Jul 2023 09:53:03 +0000</pubDate>
+		<pubDate>Thu, 27 Jul 2023 02:42:05 +0000</pubDate>
+				<category><![CDATA[独立项目]]></category>
+		<guid isPermaLink="false">/?p=380</guid>
+
+					<description><![CDATA[项目介绍：员工管理排课系统是一款专为公司内部管理设计的在线排课工具。该系统的核心目标是为员工提供一个简单、高效和灵活的课程安排平台，系统还能够自动警告课程冲突，避免员工因为时间安排问题而错过重要的课程。]]></description>
+										<content:encoded><![CDATA[
+<p><strong>项目介绍：</strong>员工管理排课系统是一款专为公司内部管理设计的在线排课工具。该系统的核心目标是为员工提供一个简单、高效和灵活的课程安排平台，系统还能够自动警告课程冲突，避免员工因为时间安排问题而错过重要的课程。</p>
+
+
+
+<p></p>
+
+
+
+<span id="more-380"></span>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>排班系统</title>
+		<link>/index.php/2020/01/01/sys-staffm/</link>
+		
+		<dc:creator><![CDATA[bleve]]></dc:creator>
+		<pubDate>Wed, 01 Jan 2020 00:53:03 +0000</pubDate>
 				<category><![CDATA[独立项目]]></category>
 		<guid isPermaLink="false">/?p=373</guid>
 

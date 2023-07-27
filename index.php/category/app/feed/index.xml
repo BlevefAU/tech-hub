@@ -12,7 +12,7 @@
 	<atom:link href="/index.php/category/app/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>APP/软件开发、SEO搜索、广告营销</description>
-	<lastBuildDate>Wed, 26 Jul 2023 07:36:18 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 26 Jul 2023 10:07:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -68,10 +68,10 @@
 			</item>
 		<item>
 		<title>Pacific Asian 爱客多</title>
-		<link>/index.php/2020/01/12/pacific_asian/</link>
+		<link>/index.php/2023/01/12/pacific_asian/</link>
 		
 		<dc:creator><![CDATA[bleve]]></dc:creator>
-		<pubDate>Sun, 12 Jan 2020 16:22:56 +0000</pubDate>
+		<pubDate>Thu, 12 Jan 2023 16:22:56 +0000</pubDate>
 				<category><![CDATA[APP]]></category>
 		<guid isPermaLink="false">https://demo.themeansar.com/newsup/lite/?p=20</guid>
 
