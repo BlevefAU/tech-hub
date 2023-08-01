@@ -12,7 +12,7 @@
 	<atom:link href="/index.php/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>APP/软件开发、SEO搜索、广告营销</description>
-	<lastBuildDate>Thu, 27 Jul 2023 02:44:13 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 01 Aug 2023 06:19:10 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -54,8 +54,8 @@
 			</item>
 		<item>
 		<title>GPT 国内直连</title>
-		<link>/index.php/2023/07/26/gpt-%e5%9b%bd%e5%86%85%e7%9b%b4%e8%bf%9e/</link>
-					<comments>/index.php/2023/07/26/gpt-%e5%9b%bd%e5%86%85%e7%9b%b4%e8%bf%9e/#respond</comments>
+		<link>/index.php/2023/07/26/gpt_connect/</link>
+					<comments>/index.php/2023/07/26/gpt_connect/#respond</comments>
 		
 		<dc:creator><![CDATA[bleve]]></dc:creator>
 		<pubDate>Wed, 26 Jul 2023 07:47:31 +0000</pubDate>
@@ -75,7 +75,7 @@
 <span id="more-364"></span>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/index.php/2023/07/26/gpt-%e5%9b%bd%e5%86%85%e7%9b%b4%e8%bf%9e/feed/</wfw:commentRss>
+					<wfw:commentRss>/index.php/2023/07/26/gpt_connect/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
